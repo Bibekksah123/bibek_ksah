@@ -5,11 +5,11 @@ import { motion } from 'framer-motion';
 export default function ProofStrip() {
   const highlights = [
     {
-      stat: '3+',
+      stat: '1+',
       label: 'years building production software across full-stack & APIs',
     },
     {
-      stat: '15+',
+      stat: '1+',
       label: 'production features, web platforms & microservices deployed',
     },
     {
